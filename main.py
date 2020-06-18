@@ -1,7 +1,7 @@
 import turtle
 h = turtle.Turtle()
 h.up()
-h.backward(290)
+h.backward(250)
 def house():
   number = int(input("# of Houses: "))
   i = 0
